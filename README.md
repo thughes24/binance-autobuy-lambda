@@ -24,8 +24,7 @@ The setup is split into two sections;
 4) Within the Function Code settings, select the 'code entry' dropdown menu. There will be an option to upload a .zip file. Upload the AWS_LAMBDA.zip file there & click save.
 5) In the basic settings section (near the bottom of the page) set the timeout to 1 minute & click save.
 6) Finally, apply the following environmental variables;
-Key | Value
------------
+**Key | Value**
 API_KEY | your_binance_api_key
 API_SECRET | your_binance_api_secret
 MARKET | what market you want to buy eg. BTCUSDT
